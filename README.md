@@ -7,4 +7,4 @@
 # DEBASISH PANDA(23CSE460)-(23UG010543)
 # UDIT KUMAR BHOI(23CSE315)-(23UG010399)
 
-[Click here to view/download the PPT](./Hospital Readmission Risk Prediction.pptx)
+[Click here to view/download the PPT](./Hospital_Readmission_Risk_Prediction.pptx)
